@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3hsOtAtbsMqftCPv8FdbtOp69LTuffOLKpp7H1gaqfU=",
+  "Source": "ActimizeETL.API",
+  "BasePath": "_content/ActimizeETL.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

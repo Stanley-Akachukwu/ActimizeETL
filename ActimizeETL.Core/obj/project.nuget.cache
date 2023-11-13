@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ct4LAjcZQTBFGuma53RczI/KQzeinTzr+MnB3WcXWjU3uMADXX0huzuRENwPGad1L0Pw/631WaEnonVMH8Ybiw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\UBAProjects\\ActimizeETL\\ActimizeETL.Core\\ActimizeETL.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\nulid\\1.7.1\\nulid.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

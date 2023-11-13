@@ -1,0 +1,53 @@
+------------------------------------------------------------------------Bank Payments--------------------------------------------------------------------------------------
+
+1. SWIFT (Society for Worldwide Interbank Financial Telecommunication):
+
+An enhancement of the traditional SWIFT system, can be SWIFT gpi which provides faster, more transparent, and traceable cross-border transactions. It is designed to improve the speed and efficiency of international money transfers.
+
+2. ACH (Automated Clearing House):
+ACH transactions enable electronic funds transfers within the same country. It is commonly used for domestic transactions such as direct deposits, bill payments, and fund transfers between bank accounts.
+
+3. WF (Wire Transfers):
+Wire transfers are a method of transferring money between different banks or financial institutions. They can be used for both domestic and international transactions, providing a fast and secure way to move funds.
+
+4. RTGS (Real-Time Gross Settlement) :
+RTGS systems facilitate real-time fund transfers between banks. These systems ensure that transactions are settled instantly and on a gross basis, meaning each transaction is settled individually.
+
+5. USSD(Unstructured Supplementary Service Data) (Mobile Banking and Mobile Payments):
+Many commercial banks offer mobile banking apps that allow customers to send and receive money using their smartphones. This often includes features like peer-to-peer transfers, mobile wallets, and mobile payment services.
+
+6.OB(Online Banking):
+Online banking platforms enable customers to perform various transactions, including transferring funds between accounts, paying bills, and making online purchases. It provides a convenient and accessible way for customers to manage their finances.
+
+7. Cheques (Checks):
+While less common in some regions, cheques are still used for certain transactions. They provide a written order from an account holder to their bank to pay a specific amount to a designated payee.
+
+
+8. DCCT(Debit and Credit Card Transactions):
+Debit and credit cards are widely used for retail transactions. Customers can make purchases, withdraw cash, and transfer funds using their cards. Transactions are processed through card networks like Visa or Mastercard.
+
+9.  (P2P) Peer-to-Peer Payment Services:
+Commercial banks may offer or partner with P2P payment services that allow customers to send money directly to others using email addresses, phone numbers, or usernames.
+
+10. (CT)Cryptocurrency Transactions:
+Some banks are exploring or integrating cryptocurrency transactions, allowing customers to send and receive funds using digital currencies like Bitcoin or stablecoins.
+
+11. (POS) Point of Sale  Transactions:
+Banks facilitate electronic payments at merchants through POS systems. Customers can use their debit or credit cards to make purchases, and the transaction is processed in real-time.
+
+
+-----------------------------------------------------------------------------------Actimize----------------------------------------------------------------------------------------------
+1. (AML) Anti-Money Laundering  Compliance:
+Detect money laundering activities by analyzing transaction patterns, customer behavior, and transaction volumes.
+Automate suspicious activity reporting (SAR) generation and submission to regulatory authorities.
+
+2.(CDD) Customer Due Diligence  and Know Your Customer (KYC):
+Verify customer identities and assess the risk associated with clients.
+Automate customer onboarding processes while ensuring compliance with regulatory requirements.
+
+3. (WLF)Watchlist Screening:
+Screen customers against global watchlists and sanctions lists.
+Identify politically exposed persons (PEPs) and high-risk entities to prevent illegal financial activities.
+
+4. SAM(Suspicious Activity Monitoring)
+
