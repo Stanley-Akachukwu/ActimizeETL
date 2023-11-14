@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActimizeETL.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23fdd947bbd80b3f2ccdf316f30cd814d013e9ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActimizeETL.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActimizeETL.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

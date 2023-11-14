@@ -1,0 +1,13 @@
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\bin\Debug\net7.0\ActimizeETL.Core.deps.json
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\bin\Debug\net7.0\ActimizeETL.Core.dll
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\bin\Debug\net7.0\ActimizeETL.Core.pdb
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.csproj.AssemblyReference.cache
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.AssemblyInfoInputs.cache
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.AssemblyInfo.cs
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.csproj.CoreCompileInputs.cache
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.sourcelink.json
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.dll
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\refint\ActimizeETL.Core.dll
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ActimizeETL.Core.pdb
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.Core\obj\Debug\net7.0\ref\ActimizeETL.Core.dll

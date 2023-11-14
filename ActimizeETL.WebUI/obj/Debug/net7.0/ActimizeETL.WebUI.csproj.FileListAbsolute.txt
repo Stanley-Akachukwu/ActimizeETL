@@ -829,3 +829,4 @@ C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.WebUI\obj\Debug\net7.0\ActimizeE
 C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.WebUI\obj\Debug\net7.0\refint\ActimizeETL.WebUI.dll
 C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.WebUI\obj\Debug\net7.0\ActimizeETL.WebUI.pdb
 C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.WebUI\obj\Debug\net7.0\ref\ActimizeETL.WebUI.dll
+C:\Projects\UBAProjects\ActimizeETL\ActimizeETL.WebUI\obj\Debug\net7.0\ActimizeETL.WebUI.sourcelink.json

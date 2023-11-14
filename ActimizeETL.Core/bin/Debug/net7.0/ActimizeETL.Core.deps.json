@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ActimizeETL.Core/1.0.0": {
+        "dependencies": {
+          "NUlid": "1.7.1"
+        },
+        "runtime": {
+          "ActimizeETL.Core.dll": {}
+        }
+      },
+      "NUlid/1.7.1": {
+        "runtime": {
+          "lib/netstandard2.1/NUlid.dll": {
+            "assemblyVersion": "1.7.1.0",
+            "fileVersion": "1.7.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActimizeETL.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUlid/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HPPo8bANNYC6sTnNa4PrCeP+ufkNRCHtHHlCw+O5gptkPSNbEI83Pr9aBQMgoPsA6od8nOGDdTQbnGr9MjQ5eQ==",
+      "path": "nulid/1.7.1",
+      "hashPath": "nulid.1.7.1.nupkg.sha512"
+    }
+  }
+}
