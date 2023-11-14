@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel;
 
-namespace ActimizeETL.Core.Services.Implementations.WatchLists
+namespace ActimizeETL.Core.Services.Implementations.Identities
 {
-     
-    [DisplayName("Customer KYC to Actimize Watch List Filtering Data Processor Service")]
-    public class CustomerKYCToWLFDataProcessorService : IETLProcessServices
+
+    [DisplayName("Customer Onboarding to Actimize Customer Due Diligence (CDD) and Know Your Customer (KYC) Data Processor Service")]
+    public class CustomerKYCCDDataProcessorService : IETLProcessServices
     {
         public Task<string> ExtractDataFromSources()
         {
